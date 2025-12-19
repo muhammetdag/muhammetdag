@@ -13,10 +13,10 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 <div align="center">
-  🚀 I'm a **Full-Stack Developer** from Turkey! <br>
+  🚀 I'm a <b>Full-Stack Developer</b> from Turkey! <br>
   💻 I specialize in creating responsive & user-friendly web experiences <br>
-  🌐 Visit my portfolio: [muhammetdag.com](https://muhammetdag.com) <br>
-  📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muhammetdagg/) | [Instagram](https://www.instagram.com/xmuhammetdag_/)
+  🌐 Visit my portfolio: <a href="https://www.muhammetdag.com/">muhammetdag.com</a> <br>
+  📫 Reach me: <a href="https://www.linkedin.com/in/muhammetdagg/">LinkedIn</a> | <a href="https://www.instagram.com/xmuhammetdag_/">Instagram</a>
 </div>
 
 <br>
